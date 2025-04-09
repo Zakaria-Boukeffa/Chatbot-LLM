@@ -68,6 +68,6 @@ This Streamlit application creates a simple chatbot interface using the OpenAI A
 
 ## File Structure
 
-*   `chatbot.py.py`: Main Streamlit application script.
+*   `chatbot.py`: Main Streamlit application script.
 *   `requirements.txt`: List of Python dependencies.
 *   `.env`: File containing environment variables (API keys, model name).
