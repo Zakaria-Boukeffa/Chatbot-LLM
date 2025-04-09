@@ -28,8 +28,8 @@ This Streamlit application creates a simple chatbot interface using the OpenAI A
 
 1.  **Clone the repository:**
     ```
-    git clone <repository-url>
-    cd <project-directory>
+    git clone [<repository-url>](https://github.com/Zakaria-Boukeffa/Chatbot-LLM.git)
+    cd Chatbot-LLM
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -57,9 +57,8 @@ This Streamlit application creates a simple chatbot interface using the OpenAI A
 
 1.  **Run the Streamlit application:**
     ```
-    streamlit run your_script_name.py
+    streamlit run chatbot.py.py
     ```
-    Replace `your_script_name.py` with the actual name of your Python script.
 
 2.  **Access the application in your web browser.** Streamlit will provide the URL (usually `http://localhost:8501`). The interface will have a black background with white text.
 
@@ -69,6 +68,6 @@ This Streamlit application creates a simple chatbot interface using the OpenAI A
 
 ## File Structure
 
-*   `your_script_name.py`: Main Streamlit application script.
+*   `chatbot.py.py`: Main Streamlit application script.
 *   `requirements.txt`: List of Python dependencies.
 *   `.env`: File containing environment variables (API keys, model name).
