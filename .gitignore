@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+*.egg
+*.egg-info
+dist
+build
+wheels
+pip-wheel-metadata
+*.whl
+*.manifest
+*.spec
+
+# Streamlit specific
+.streamlit/secrets.toml # Important: Exclude secrets
+.streamlit/config.toml
+
+# PyInstaller
+**/__pycache__
+**/.DS_Store
+*.spec
+dist/
+build/
+
+# Editor-related files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data and logs
+*.csv  # Consider if your CSVs are generated, not essential
+*.log
+*.out
+
+# Python virtual environment
+venv/
+.env
+
+# Sensitive information
+*.env # Never commit .env files containing API keys
+
+# Temporary files
+tmp/
+temp/
+
+# Generated files and folders
+extracted_website_info.csv
+crawler_script.py
+
+# Jupyter Notebook
+.ipynb_checkpoints/
