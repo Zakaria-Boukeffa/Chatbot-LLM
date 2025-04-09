@@ -28,7 +28,7 @@ This Streamlit application creates a simple chatbot interface using the OpenAI A
 
 1.  **Clone the repository:**
     ```
-    git clone [<repository-url>](https://github.com/Zakaria-Boukeffa/Chatbot-LLM.git)
+    git clone https://github.com/Zakaria-Boukeffa/Chatbot-LLM.git
     cd Chatbot-LLM
     ```
 
